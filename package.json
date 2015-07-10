@@ -1,0 +1,26 @@
+{
+  "name": "resourceful-routing",
+  "version": "0.0.0",
+  "description": "Resourceful routing module to use with expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./app/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shiak1/resourceful-routing.git"
+  },
+  "keywords": [
+    "express",
+    "resource",
+    "routing",
+    "node",
+    "controllers"
+  ],
+  "author": "Shiya Kohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiak1/resourceful-routing/issues"
+  },
+  "homepage": "https://github.com/shiak1/resourceful-routing#readme"
+}
